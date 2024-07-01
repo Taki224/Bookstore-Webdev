@@ -1,0 +1,272 @@
+[
+    {
+      "id": 1,
+      "name": "Fairy Tail",
+      "desc": "Stephen King",
+      "category": "Fantasy",
+      "price": 19.99,
+      "topSeller": true,
+      "imageName": "product5.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "The World We Make",
+      "desc": "N. K. Jemisin",
+      "category": "Action",
+      "price": 25.49,
+      "topSeller": true,
+      "imageName": "product6.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "A Restless Truth",
+      "desc": "Freya Marske",
+      "category": "Sci-Fi",
+      "price": 26.99,
+      "topSeller": true,
+      "imageName": "product7.webp"
+    },
+    {
+      "id": 4,
+      "name": "Jonathan Strange",
+      "desc": "Susanna Clarke",
+      "category": "Action",
+      "price": 18.99,
+      "topSeller": false,
+      "imageName": "product8.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Thin Air",
+      "desc": "Richard K. Morgan",
+      "category": "Sci-Fi",
+      "price": 12,
+      "topSeller": true,
+      "imageName": "product9.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "The Women Could Fly",
+      "desc": "Megan Giddings",
+      "category": "Fantasy",
+      "price": 19.99,
+      "topSeller": false,
+      "imageName": "product10.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Product7",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 30.73,
+      "topSeller": false,
+      "imageName": "product9.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Product8",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Fantasy",
+      "price": 40.39,
+      "topSeller": false,
+      "imageName": "product10.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Product9",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Fantasy",
+      "price": 20.98,
+      "topSeller": false,
+      "imageName": "product6.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Product10",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 25.26,
+      "topSeller": false,
+      "imageName": "product7.webp"
+    },
+    {
+      "id": 11,
+      "name": "Product11",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Fantasy",
+      "price": 32.05,
+      "topSeller": false,
+      "imageName": "product6.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Product12",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 21.59,
+      "topSeller": false,
+      "imageName": "product10.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Product13",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Fantasy",
+      "price": 15.41,
+      "topSeller": false,
+      "imageName": "product7.webp"
+    },
+    {
+      "id": 14,
+      "name": "Product14",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Fantasy",
+      "price": 18.57,
+      "topSeller": false,
+      "imageName": "product7.webp"
+    },
+    {
+      "id": 15,
+      "name": "Product15",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 39.07,
+      "topSeller": false,
+      "imageName": "product5.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Product16",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 21.07,
+      "topSeller": false,
+      "imageName": "product6.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Product17",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Sci-Fi",
+      "price": 28.02,
+      "topSeller": false,
+      "imageName": "product5.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Product18",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Sci-Fi",
+      "price": 22.53,
+      "topSeller": false,
+      "imageName": "product5.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Product19",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 15.06,
+      "topSeller": false,
+      "imageName": "product9.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "Product20",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 19.18,
+      "topSeller": false,
+      "imageName": "product8.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Product21",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Fantasy",
+      "price": 26.18,
+      "topSeller": false,
+      "imageName": "product7.webp"
+    },
+    {
+      "id": 22,
+      "name": "Product22",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Sci-Fi",
+      "price": 44.03,
+      "topSeller": false,
+      "imageName": "product7.webp"
+    },
+    {
+      "id": 23,
+      "name": "Product23",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Fantasy",
+      "price": 41.4,
+      "topSeller": false,
+      "imageName": "product7.webp"
+    },
+    {
+      "id": 24,
+      "name": "Product24",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Fantasy",
+      "price": 24.15,
+      "topSeller": false,
+      "imageName": "product9.jpeg"
+    },
+    {
+      "id": 25,
+      "name": "Product25",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Sci-Fi",
+      "price": 38.1,
+      "topSeller": false,
+      "imageName": "product9.jpeg"
+    },
+    {
+      "id": 26,
+      "name": "Product26",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 33.11,
+      "topSeller": false,
+      "imageName": "product8.jpeg"
+    },
+    {
+      "id": 27,
+      "name": "Product27",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 49.3,
+      "topSeller": false,
+      "imageName": "product10.jpeg"
+    },
+    {
+      "id": 28,
+      "name": "Product28",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 47.66,
+      "topSeller": false,
+      "imageName": "product10.jpeg"
+    },
+    {
+      "id": 29,
+      "name": "Product29",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 12.74,
+      "topSeller": false,
+      "imageName": "product6.jpeg"
+    },
+    {
+      "id": 30,
+      "name": "Product30",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Action",
+      "price": 12.6,
+      "topSeller": false,
+      "imageName": "product7.webp"
+    }
+]
